@@ -7,7 +7,10 @@ It can not only controll all the wheel features, but read and announce ball posi
 Connects to wheel module's serial port.
 
 No AlfaStreet code was used in creation of this applet.
+You would need to create your own WAV files, if you want voice announcements of the winning number.
 
+
+This applet in action: https://www.youtube.com/watch?v=b4JXc2xbX0g
 
 Here the wheel is shown with original side panels & original software:
 https://youtu.be/s9Ce7Vdjv-M
